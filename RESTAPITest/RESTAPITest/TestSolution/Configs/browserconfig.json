@@ -1,0 +1,5 @@
+{
+  "BaseUrl": "https://jsonplaceholder.typicode.com",
+  "PostsUrl": "https://jsonplaceholder.typicode.com/posts",
+  "UsersUrl": "https://jsonplaceholder.typicode.com/users"
+}
